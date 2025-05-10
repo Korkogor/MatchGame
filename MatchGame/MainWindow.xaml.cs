@@ -34,6 +34,7 @@ namespace MatchGame
         }
 
         private void SetUpGame()
+
         {
             List<string> animalEmoji = new List<string>()
             {
